@@ -50,3 +50,6 @@
 ![txt-of.png](txt-of.png)
 ![txt-separation.png](txt-separation.png)
 ![txt-server.png](txt-server.png)
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/scotland/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Back To Front</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/latentflip/scottish-ruby-conf-2013-talk" property="cc:attributionName" rel="cc:attributionURL">Philip Roberts</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 UK: Scotland License</a>.
