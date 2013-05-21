@@ -1,3 +1,10 @@
+# Given at Scottish Ruby Conference 2013
+## Slides at [SpeakerDeck](https://speakerdeck.com/latentflip/back-to-front-one-mans-journey-from-server-to-client-side)
+## Video soon
+## Original assets below
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/scotland/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Back To Front</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/latentflip/scottish-ruby-conf-2013-talk" property="cc:attributionName" rel="cc:attributionURL">Philip Roberts</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 UK: Scotland License</a>.
+
 ![200.png](200.png)
 ![4.png](4.png)
 ![40.png](40.png)
